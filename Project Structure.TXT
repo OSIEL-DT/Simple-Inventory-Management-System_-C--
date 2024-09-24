@@ -1,0 +1,8 @@
+InventoryManagement/
+│
+├── main.cpp
+├── product.h
+├── product.cpp
+├── inventory.h
+├── inventory.cpp
+└── Makefile (optional for compiling using make)
